@@ -36,15 +36,15 @@
     "express": "^4.12.4",
     "httpntlm": "^1.5.2",
     "inquirer": "^0.11.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.21",
     "parserlib": "~0.2.3",
     "request": "^2.58.0",
-    "tough-cookie": "^2.0.0",
-    "validator": "~0.4.22",
+    "tough-cookie": "^6.0.0",
+    "validator": "~13.15.15",
     "xml2js": ">=0.2.0"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~1.6.1",
     "grunt-contrib-jshint": "0.12.0",
     "grunt-contrib-nodeunit": "0.4.1"
   },
